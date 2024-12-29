@@ -17,6 +17,9 @@ Visualize.ipynb - Code used for the data pre-processing and exploratory data ana
 ## Related Publications
 
 Open Source Dataset - https://doi.org/10.7910/DVN/CXMJSM (Harvard Dataverse)
+
 Dataset Publication - https://doi.org/10.1016/j.dib.2024.110063 (Data in Brief Journal)
+
 Education Impact Analysis Publication - https://doi.org/10.1057/s41599-024-04099-7 (Nature Humanities and Social Sciences Communications Journal)
+
 Psychological Impact Analysis Publication - doi: 10.3389/fpsyg.2024.1491805 (Frontiers in Psychology Journal) 
