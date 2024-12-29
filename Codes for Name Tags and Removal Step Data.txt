@@ -1,0 +1,13 @@
+sof = source of food
+fin = financial institute
+lei = leisure activities
+mot = mode of transport
+w = work
+wmot = work mode of transport
+
+
+
+cleaning
+
+99 = 3020 -> 2552
+0 = 2552 -> 1898

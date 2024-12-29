@@ -1,0 +1,20 @@
+Ampara - 1
+Anuradhapura - 2
+Badulla - 3
+Batticaloa - 4
+Colombo - 5
+Galle - 6
+Gampaha - 7
+Jaffna - 8
+Kalutara - 9
+Kandy - 10
+Kegalle - 11
+Kurunegala - 12
+Matale - 13
+Matara - 14
+Monaragala - 15
+Nuwera Eliya - 16
+Polonnaruwa - 17
+Puttalam - 18
+Rathnapura - 19
+Vauniya - 20
