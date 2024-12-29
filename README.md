@@ -4,14 +4,19 @@ The below are the content descriptions of the folders in the main page.
 
 ## Folders
 Data - Includes all the data files used in the project
+
 Graphics - Contains the figures generated from SPSS 27 software for the 7 categories chosen for further analysis
+
 NN - Contains the Jupyter Notebooks and Data used in the preliminary implementation of neural network apporach 
 
 ## Files
 
 Averaging.ipynb - Code used for the averaging done in three methods. Basis for these methods are included in the file
+
 Codes for Name Tags and Removal Step Data.txt - Contains the Codes for each sub category of the data collected in the Survey
+
 resultsCompare (DO & VAR).pptx - Results of the Factor analysis done for the data in Direct Oblimin and Varimax 
+
 Visualize.ipynb - Code used for the data pre-processing and exploratory data analysis
 
 ## Related Publications
